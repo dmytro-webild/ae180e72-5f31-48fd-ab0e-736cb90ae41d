@@ -128,7 +128,7 @@ export default function LandingPage() {
       features={[
         {
           icon: Trash2,
-          title: "Residential Junk Removal",
+          title: "Junk Removal",
           description: "Quick removal of furniture, appliances, yard debris, and construction waste from your property.",
         },
         {
@@ -161,17 +161,17 @@ export default function LandingPage() {
           features: [
             "Quick site visit",
             "Flexible scheduling",
-            "Porterville area",
+            "Porterville area only",
           ],
         },
         {
           id: "pro",
           badge: "Popular",
-          price: "$150+",
+          price: "$135+",
           subtitle: "Medium Load",
           features: [
             "Full truck load",
-            "Includes labor",
+            "Starting rate outside of Porterville ",
             "Fast removal",
           ],
         },
@@ -181,9 +181,9 @@ export default function LandingPage() {
           price: "Custom",
           subtitle: "Dumpster Rentals",
           features: [
-            "Flexible duration",
-            "Easy delivery",
-            "Large capacity",
+            "14 Yd - $160 per day ",
+            "20 Yd - $360 3 day min. ",
+            "Large capacity dumpsters",
           ],
         },
       ]}
