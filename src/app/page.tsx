@@ -96,7 +96,7 @@ export default function LandingPage() {
         },
         {
           id: "6",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-activist-grabbing-rubbish-with-claw-tool-forest_482257-91227.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1776026550025-1jm47ng0.jpg",
           imageAlt: "Dumpster pickup",
         },
       ]}
