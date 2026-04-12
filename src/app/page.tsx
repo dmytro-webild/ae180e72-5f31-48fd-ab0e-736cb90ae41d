@@ -254,13 +254,13 @@ export default function LandingPage() {
         placeholder: "Tell us about your project",
         rows: 4,
       }}
-      imageSrc="http://img.b2bpic.net/free-photo/young-man-engraving-wood_23-2149061683.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1776026659098-nwjfxnid.jpg"
     />
   </div>
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="http://img.b2bpic.net/free-photo/full-shot-man-painting-car-door_23-2149714295.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1776026761051-zynwfpzl.jpg"
       logoText="DRs Hauling"
       columns={[
         {
