@@ -76,7 +76,7 @@ export default function LandingPage() {
         },
         {
           id: "2",
-          imageSrc: "http://img.b2bpic.net/free-photo/couple-collects-garbage-garbage-bags-park_1157-27402.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1776026438531-e1knv22v.jpg",
           imageAlt: "Dumpster rental in driveway",
         },
         {
@@ -91,7 +91,7 @@ export default function LandingPage() {
         },
         {
           id: "5",
-          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-rebel-teens-with-skateboard_23-2149854284.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1776026426683-1eh1i1pp.jpg",
           imageAlt: "Garage cleanout service",
         },
         {
