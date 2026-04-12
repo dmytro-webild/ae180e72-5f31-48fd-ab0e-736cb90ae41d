@@ -86,7 +86,7 @@ export default function LandingPage() {
         },
         {
           id: "4",
-          imageSrc: "http://img.b2bpic.net/free-photo/delivery-person-getting-parcel-out-delivery_23-2149371949.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1776026516268-gnyago53.jpg",
           imageAlt: "Construction site waste",
         },
         {
