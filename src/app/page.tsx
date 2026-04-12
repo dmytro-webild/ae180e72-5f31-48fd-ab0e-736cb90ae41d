@@ -81,7 +81,7 @@ export default function LandingPage() {
         },
         {
           id: "3",
-          imageSrc: "http://img.b2bpic.net/free-photo/monochrome-scene-depicting-life-workers-construction-industry-site_23-2151431600.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1776026488730-0ti5r9rd.jpg",
           imageAlt: "Professional hauling crew",
         },
         {
