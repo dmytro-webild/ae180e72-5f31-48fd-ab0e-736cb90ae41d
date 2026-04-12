@@ -71,7 +71,7 @@ export default function LandingPage() {
       carouselItems={[
         {
           id: "1",
-          imageSrc: "http://img.b2bpic.net/free-photo/couple-with-cardboard-boxes-their-new-home_23-2149086868.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3CAbs2mtVAarsbwSrty8hTuKmCw/uploaded-1776026601054-zrgbkqpd.jpg",
           imageAlt: "Hauling debris from residential site",
         },
         {
