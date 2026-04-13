@@ -143,7 +143,7 @@ export default function LandingPage() {
         },
       ]}
       title="Fast, Hassle-Free Hauling Services"
-      description="We specialize in clearing clutter and providing reliable waste management for homes, job sites, and estates across Porterville and Tulare County."
+      description="We specialize in clearing clutter and providing reliable waste management for homes, job sites, and estates across Tulare County."
     />
   </div>
 
@@ -195,9 +195,9 @@ export default function LandingPage() {
   <div id="testimonials" data-section="testimonials">
       <TestimonialCardFifteen
       useInvertedBackground={false}
-      testimonial="DRs Hauling cleared my entire garage in a few hours. The crew was fast, polite, and very professional. Highly recommended!"
+      testimonial="I've used their services twice and both times they have been great! They are fast and efficient and do what they can to pack everything in so that we're not paying extra! Thank you! You guys are a BIG help!"
       rating={5}
-      author="Sarah Miller, Porterville"
+      author="Kim C, Porterville"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/medium-shot-family-celebrating-birthday-together_23-2150598982.jpg",
